@@ -1,0 +1,9 @@
+# Private learning notes — never pushed
+/notes/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# backend/ and mobile/ each carry their own .gitignore
